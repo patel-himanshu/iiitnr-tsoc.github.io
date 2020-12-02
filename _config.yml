@@ -13,7 +13,6 @@ tagline: Coding Club of IIIT Naya Raipur.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   TSoC is the offical coding club of IIIT Naya Raipur.
-  TODO - Add some more info here
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
 url: 'https://tsoc.github.io'
