@@ -82,4 +82,15 @@ The Society of Coders is IIIT-Naya Raipur's official coding club. Started by stu
 		</div>
 		</div>
 	</div>
+	<div class="column" style="float: left; width=33%; padding: 10px 10px">
+		<div class="card h-200" style="background-color: rgba(0, 0, 0, 0.2);">
+		<div class="card-header">
+			<img alt="Abhik Jain" src="../../assets/img/profile_pics/abhik_jain.jpeg" style="align: center; width:150px; height: 150px; border-radius: 50%">
+		</div>
+		<div class=container style="align: center">
+			<h4 style="text-align: center"><b>Core Member</b></h4>
+			<p style="text-align: center">Abhik Jain</p>
+		</div>
+		</div>
+	</div>
 </div>

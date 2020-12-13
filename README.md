@@ -1,3 +1,3 @@
-# TSOC IIITNR Website
+# TSoC IIIT-NR Website
 
-visit [here](iiitnr-tsoc.github.io)
+Visit [here](iiitnr-tsoc.github.io)
